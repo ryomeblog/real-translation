@@ -60,9 +60,6 @@
 pip install -r requirements.txt
 ```
 
-2. 環境変数の設定:
-- `.env` ファイルを開き、必要な設定を行う
-
 ## 使用方法
 
 1. Virtual Audio Cableの設定を確認
