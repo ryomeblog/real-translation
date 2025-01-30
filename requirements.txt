@@ -1,0 +1,8 @@
+numpy
+sounddevice
+faster-whisper
+translate
+python-dotenv
+gTTS
+playsound==1.2.2
+soundfile
